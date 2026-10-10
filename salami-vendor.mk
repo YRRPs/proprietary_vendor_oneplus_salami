@@ -1268,6 +1268,7 @@ PRODUCT_PACKAGES += \
     libOPAlgoCamSinglePortrait \
     libOPLUS_SCPortrait \
     libOplusPDCore \
+    libOplusSecurity \
     libPerfectColor \
     libPerfectlyClearCruxOpt \
     libPlatformValidatorShared \
@@ -1399,6 +1400,7 @@ PRODUCT_PACKAGES += \
     libthirdcapability \
     libtriplecam_optical_zoom_control \
     libtriplecam_video_optical_zoom \
+    libui_oplus \
     libwatermark_photo \
     libwrapper_te \
     libyuv2 \
